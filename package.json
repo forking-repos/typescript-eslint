@@ -57,7 +57,7 @@
   "devDependencies": {
     "@commitlint/cli": "^16.0.1",
     "@commitlint/config-conventional": "^16.0.0",
-    "@nrwl/cli": "13.8.5",
+    "@nrwl/cli": "13.9.5",
     "@nrwl/nx-cloud": "13.1.6",
     "@nrwl/tao": "13.8.5",
     "@nrwl/workspace": "13.8.5",
