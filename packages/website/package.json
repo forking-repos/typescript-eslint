@@ -18,7 +18,7 @@
     "@docusaurus/core": "~2.0.1",
     "@docusaurus/preset-classic": "~2.0.1",
     "@docusaurus/remark-plugin-npm2yarn": "~2.0.1",
-    "@docusaurus/theme-common": "~2.0.1",
+    "@docusaurus/theme-common": "~2.1.0",
     "@mdx-js/react": "1.6.22",
     "@typescript-eslint/parser": "5.36.1",
     "@typescript-eslint/website-eslint": "5.36.1",
